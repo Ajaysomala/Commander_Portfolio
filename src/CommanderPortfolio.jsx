@@ -15,7 +15,7 @@ import { Linkedin, Github, Mail } from "lucide-react";
 
 const SOCIAL = {
   email: "mailto:jaydeveloper010@gmail.com",
-  linkedin: "https://www.linkedin.com/in/ajaysomala-8a806b213/", // verify exact path
+  linkedin: "https://www.linkedin.com/in/somala-ajay-8a806b213/", // verify exact path
   github: "https://github.com/Ajaysomala",
   naukri: "https://www.naukri.com/", // replace with your Naukri profile URL
   instagram: "https://www.instagram.com/_jay__official____/?hl=en",
