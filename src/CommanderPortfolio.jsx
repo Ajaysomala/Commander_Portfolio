@@ -116,7 +116,7 @@ function Hero() {
       <motion.div initial={{ x: -40, opacity: 0 }} animate={{ x: 0, opacity: 1 }} transition={{ duration: 0.6 }}>
         <h1 className="text-4xl md:text-5xl font-extrabold leading-tight">
           Somala Ajay
-          <span className="block text-2xl md:text-3xl font-medium text-slate-300 mt-2">Customer Support → Aspiring Software & AI Developer</span>
+          <span className="block text-2xl md:text-3xl font-medium text-slate-300 mt-2">Associate Data Operations</span>
         </h1>
 
         <p className="mt-6 text-slate-300 max-w-xl">
